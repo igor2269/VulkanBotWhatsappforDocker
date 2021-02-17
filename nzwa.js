@@ -381,7 +381,7 @@ async function starts() {
                         const tescuk = ["0@s.whatsapp.net"]
                         const q = args.join(' ')
                         mess = {
-                                wait: '⌛ Processando Aguarde FAVOR MANDAR UM DE CADA VEZ SISTEMA PASSANDO POR MANUTENÇÃO FAVOR TER PACIENCIA⌛',
+                                wait: '⌛ Processando Aguarde ⌛',
                                 succsess: '✔️ Sucesso ✔️',
                                 levelon: '❬ ✔ ❭ *O sistema de nivel esta ativo*',
                                 levelnoton: `❬ X ❭  *O sistema de nivel esta inativo*`,
