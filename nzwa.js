@@ -1863,7 +1863,7 @@ async function starts() {
                                         reply(mess.wait)
                                         //if (!isRegister) return reply(mess.only.daftarB)
                                         if (isLimit(sender)) return reply(ind.limitend(pusname))
-                                        anu = await fetchJson(`https://arugaz.my.id/api/nekonime`, { method: 'get' })
+                                        anu = await fetchJson(`https://tobz-api.herokuapp.com/api/waifu?apikey=BotWeA`, { method: 'get' })
                                         buffer = await getBuffer(anu.result)
                                         nzwa.sendMessage(from, buffer, image, { quoted: mek })
                                         await limitAdd(sender)
