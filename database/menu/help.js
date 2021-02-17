@@ -52,7 +52,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ┠≽ *${prefix}limitmenu*
 ┠≽ *${prefix}ownermenu SOMENTE COM PERMISSAO PREVIA*
 ┠≽ *${prefix}othermenu DESATIVADO*
-┠≽ *${prefix}desenvolvedor em caso de duvidas ou problemas!*
 ╿ *${ownerName}*,
 ╰╼≽ *Developer © ${botName}`
 }

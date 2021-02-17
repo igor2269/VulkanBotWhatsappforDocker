@@ -22,12 +22,10 @@ const adult = (prefix, botName, ownerName) => {
 ┠≽ *${prefix}ping*
 ┃ *Desc* : Show Connection Bot Speed
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
-┃ *Desc* : Report Bug To Owner Bot
 ╿
 ┷┯ *〈 18+ 〉*
    ╽
-   ┠≽ *${prefix}randomhentai*
+   ┠≽ *${prefix}hentai*
    ┃ *Desc* : Sending Random Hentai Image
    ┠──────────────╼
    ┠≽ *${prefix}nsfwtrap*
