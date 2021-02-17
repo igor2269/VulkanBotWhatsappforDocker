@@ -9,9 +9,9 @@ apt install ffmpeg -y
 apt install wget -y
 apt install tesseract -y
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
+npm install
 npm i imgbb-uploader
 npm cache clean -f
-npm install --production
 npm i got
 
 echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
