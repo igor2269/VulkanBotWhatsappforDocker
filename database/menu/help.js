@@ -1,5 +1,5 @@
 const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
-   return `
+  return `
 ┏ *〈 ${botName} 〉*
 ╿
 ┷┯ *〈 USER INFO 〉*
@@ -29,30 +29,12 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ┠──────────────╼
 ╿
 ┷┯ *〈 MENU 〉*
-┠≽ *${prefix}logomakermenu DESATIVADO*
-┠≽ *${prefix}imagemakermenu DESATIVADO*
-┠≽ *${prefix}stickermakermenu*
-┠≽ *${prefix}searchmenu DESATIVADO*
-┠≽ *${prefix}educationmenu DESATIVADO*
-┠≽ *${prefix}kerangmenu DESATIVADO*
-┠≽ *${prefix}downloadermenu DESATIVADO*
-┠≽ *${prefix}mememenu DESATIVADO*
 ┠≽ *${prefix}groupmenu*
-┠≽ *${prefix}soundmenu DESATIVADO*
-┠≽ *${prefix}musicmenu*
-┠≽ *${prefix}islammenu*
-┠≽ *${prefix}stalkmenu DESATIVADO*
-┠≽ *${prefix}wibumenu*
-┠≽ *${prefix}18+menu DESATIVADO*
-┠≽ *${prefix}funmenu DESATIVADO*
-┠≽ *${prefix}todmenu DESATIVADO*
-┠≽ *${prefix}informationmenu DESATIVADO*
-┠≽ *${prefix}stayonscreenmenu DESATIVADO*
 ┠≽ *${prefix}xpmenu*
 ┠≽ *${prefix}limitmenu*
-┠≽ *${prefix}ownermenu SOMENTE COM PERMISSAO PREVIA*
-┠≽ *${prefix}othermenu DESATIVADO*
+┠≽ *${prefix}ownermenu *
+┠≽ *${prefix}othermenu *
 ╿ *${ownerName}*,
-╰╼≽ *Developer © ${botName}`
-}
-exports.help = help
+╰╼≽ *Developer © ${botName}`;
+};
+exports.help = help;
