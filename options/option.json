@@ -1,10 +1,10 @@
 {
-    "botName": "Vulcan_Bot-1",
-    "ownerName": "Nascimento.corp",
-    "BarBarKey": "",
-    "ownerNumbers": "00000000000@s.whatsapp.net",
-    "languages": "eng",
-    "botPrefix": ".",
-    "memberLimitss": "90",
-    "userDefaultLimit": "90"
+  "botName": "Vulcan_Bot-1",
+  "ownerName": "Nascimento.corp",
+  "BarBarKey": "",
+  "ownerNumbers": "553284885255@s.whatsapp.net",
+  "languages": "ind",
+  "botPrefix": ".",
+  "memberLimitss": "90",
+  "userDefaultLimit": "90"
 }
